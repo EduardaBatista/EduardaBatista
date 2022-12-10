@@ -8,8 +8,18 @@
 <div align="center">
   <a href="https://github.com/EduardaBatista">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaBatista&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaBatista&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardaBatista&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaBatista&layout=compact&langs_count=7&theme=moltack"/>
+  
+  - Atualmente estou estudando:
+  <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=e380ff">
+  <img align="center"  height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="center" height="40" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center"  height="40" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+ 
+</div>
 </div>
 
 ##
